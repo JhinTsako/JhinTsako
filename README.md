@@ -1,6 +1,12 @@
 # 💫 About Me:
-Hi there, Im George(Tsako for shorts)<br>🎮 Currently studying Game Development and Web Design on IEK DELTA 360 in Greece!<br>🎨 Begginer Blender and Krita artist<br>👨‍🔧 In the works of a 2D Platformer in Unity engine, learning C#
+Hi there, Im George(Tsako for shorts)<br>🎮 Currently studying Game Development and Web Design on IEK DELTA 360 in Greece!<br>🎨 Begginer Blender and Krita artist<br>👨‍🔧 In the works of a 2D Platformer in Unity engine, learning C# <br>
 
+
+
+#Skills
+- 🎨 Pretty decent at drawing 3D and 2D art, beginer in C# programing, and very fast learner.
+- 🧩 Good grasp of soft skills
+- 😎 Extrovert
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jorge_tsakonas) 
