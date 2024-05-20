@@ -4,7 +4,7 @@ Hi there, Im George(Tsako for shorts)<br>🎮 Currently studying Game Developmen
 <img src="https://github.com/JhinTsako/JhinTsako/blob/main/maxresdefault.jpg?raw=true">
 
 # Skills
-- 🎨 Pretty decent at drawing 3D and 2D art, beginer in C# programing, and very fast learner.
+- 🎨 Pretty decent at drawing 3D and 2D art and very fast learner.
 - 🧩 Good grasp of soft skills
 - 😎 Extrovert
 
